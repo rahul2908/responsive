@@ -2,6 +2,7 @@ module.exports = {
     dev: {
 	  options: {
 		engine: 'gm'
+		quality: 60
 		},
 		
       files: [{
