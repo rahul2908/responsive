@@ -27,7 +27,7 @@ module.exports = {
 
     // Image tasks
     imgFirst: [
-        'imagemin',
-		'responsive_images'
+        'responsive_images',
+		'imagemin'	
     ]
 };
