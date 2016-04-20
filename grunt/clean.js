@@ -1,5 +1,6 @@
 module.exports = {
     all: [
-        "dist/"
+        "images/",
+		"images/minified_images"
     ]
 };

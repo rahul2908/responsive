@@ -2,7 +2,16 @@ module.exports = {
     dev: {
 	  options: {
 		engine: 'gm',
-		quality: 60
+		sizes: [{
+			suffix: '_large_2x',
+			width: 1600,
+			quality: 30
+			},
+				{
+			suffix: '_medium_1x',
+			width: 800,
+			quality: 30
+			}]	
 		},
 		
       files: [{
