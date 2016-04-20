@@ -11,6 +11,7 @@ img:
   description: 'Image tasks'
   tasks:
     - 'concurrent:imgFirst'
+    - 'concurrent:imgSecond'
     
 devimg:
   description: 'Development build and image tasks'

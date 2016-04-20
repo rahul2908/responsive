@@ -5,9 +5,9 @@ module.exports = {
 		},
         files: [{
             expand: true,
-            cwd: 'images_src/',
+            cwd: 'images/',
             src: ['*.{png,jpg,gif}'],
-            dest: 'images/'
+            dest: 'images/minified_images'
         }]
     }
 };

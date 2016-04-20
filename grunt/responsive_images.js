@@ -1,7 +1,7 @@
 module.exports = {
     dev: {
 	  options: {
-		engine: 'gm'
+		engine: 'gm',
 		quality: 60
 		},
 		
