@@ -1,4 +1,4 @@
-# Responsive Images Quiz Answers Website #
+# Responsive Images Lessons Website #
 
 ## Info ##
 
