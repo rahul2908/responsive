@@ -2,14 +2,21 @@ module.exports = {
     dev: {
 	  options: {
 		engine: 'gm',
+		aspectRatio: false,
 		sizes: [{
 			suffix: '_large_2x',
 			width: 1600,
 			quality: 30
 			},
 				{
-			suffix: '_medium_1x',
+			suffix: '_large_1x',
 			width: 800,
+			quality: 30
+			},
+				{
+			suffix: '_small',
+			height:300,
+			width: 400,
 			quality: 30
 			}]	
 		},
