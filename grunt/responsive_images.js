@@ -2,7 +2,6 @@ module.exports = {
     dev: {
 	  options: {
 		engine: 'gm',
-		aspectRatio: false,
 		sizes: [{
 			suffix: '_large_2x',
 			width: 1600,
